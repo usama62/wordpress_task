@@ -3,7 +3,7 @@
 Plugin Name: WP_TASK
 Plugin URI: https://demo.com/
 Description:Users fetch the details of a user through an API.
-Author: Usama Ebrahim
+Author: Shahzaib mehfooz
 Version: 0.1
 */
 add_shortcode('show_users', 'render_shortcode_users');
